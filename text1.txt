@@ -1,0 +1,10 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 2EA8-44A5
+
+ Directory of C:\Users\mdsarfaraz.alam\Desktop\Project_srfz
+
+10/25/2020  11:11 AM    <DIR>          .
+10/25/2020  11:11 AM    <DIR>          ..
+10/25/2020  11:11 AM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  158,099,099,648 bytes free
